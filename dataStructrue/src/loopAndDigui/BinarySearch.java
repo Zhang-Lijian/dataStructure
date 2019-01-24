@@ -1,7 +1,5 @@
 package loopAndDigui;
 
-import java.util.Scanner;
-
 public class BinarySearch {
 	public static long search(int n, int s) {
 		int[] a = new int[n];
